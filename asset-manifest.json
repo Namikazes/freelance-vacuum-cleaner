@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/freelance-vacuum-cleaner/static/css/main.c51bfe93.css",
+    "main.css": "/freelance-vacuum-cleaner/static/css/main.7c76ee70.css",
     "main.js": "/freelance-vacuum-cleaner/static/js/main.3cd3d445.js",
     "static/js/787.0ec2cfbc.chunk.js": "/freelance-vacuum-cleaner/static/js/787.0ec2cfbc.chunk.js",
     "static/media/photo_3.jpg": "/freelance-vacuum-cleaner/static/media/photo_3.649553e3122f4ef4ed8a.jpg",
@@ -9,12 +9,12 @@
     "static/media/photo_2.jpg": "/freelance-vacuum-cleaner/static/media/photo_2.954875514bb1c82bd5aa.jpg",
     "static/media/photo_4.jpg": "/freelance-vacuum-cleaner/static/media/photo_4.1e6fa7222c9a5c66ee21.jpg",
     "index.html": "/freelance-vacuum-cleaner/index.html",
-    "main.c51bfe93.css.map": "/freelance-vacuum-cleaner/static/css/main.c51bfe93.css.map",
+    "main.7c76ee70.css.map": "/freelance-vacuum-cleaner/static/css/main.7c76ee70.css.map",
     "main.3cd3d445.js.map": "/freelance-vacuum-cleaner/static/js/main.3cd3d445.js.map",
     "787.0ec2cfbc.chunk.js.map": "/freelance-vacuum-cleaner/static/js/787.0ec2cfbc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c51bfe93.css",
+    "static/css/main.7c76ee70.css",
     "static/js/main.3cd3d445.js"
   ]
 }
