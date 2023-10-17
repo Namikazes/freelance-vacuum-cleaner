@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/freelance-vacuum-cleaner/static/css/main.c51bfe93.css",
+    "main.js": "/freelance-vacuum-cleaner/static/js/main.3cd3d445.js",
+    "static/js/787.0ec2cfbc.chunk.js": "/freelance-vacuum-cleaner/static/js/787.0ec2cfbc.chunk.js",
+    "static/media/photo_3.jpg": "/freelance-vacuum-cleaner/static/media/photo_3.649553e3122f4ef4ed8a.jpg",
+    "static/media/Знімок_екрана_2023-09-13_223829-removebg-preview.png": "/freelance-vacuum-cleaner/static/media/Знімок_екрана_2023-09-13_223829-removebg-preview.9f7d18936043492607de.png",
+    "static/media/photo_1.jpg": "/freelance-vacuum-cleaner/static/media/photo_1.0410278fdd650c5396b5.jpg",
+    "static/media/photo_2.jpg": "/freelance-vacuum-cleaner/static/media/photo_2.954875514bb1c82bd5aa.jpg",
+    "static/media/photo_4.jpg": "/freelance-vacuum-cleaner/static/media/photo_4.1e6fa7222c9a5c66ee21.jpg",
+    "index.html": "/freelance-vacuum-cleaner/index.html",
+    "main.c51bfe93.css.map": "/freelance-vacuum-cleaner/static/css/main.c51bfe93.css.map",
+    "main.3cd3d445.js.map": "/freelance-vacuum-cleaner/static/js/main.3cd3d445.js.map",
+    "787.0ec2cfbc.chunk.js.map": "/freelance-vacuum-cleaner/static/js/787.0ec2cfbc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c51bfe93.css",
+    "static/js/main.3cd3d445.js"
+  ]
+}
