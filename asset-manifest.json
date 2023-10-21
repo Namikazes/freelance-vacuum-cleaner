@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/freelance-vacuum-cleaner/static/css/main.ca3ba814.css",
-    "main.js": "/freelance-vacuum-cleaner/static/js/main.56049d66.js",
+    "main.css": "/freelance-vacuum-cleaner/static/css/main.1e37906c.css",
+    "main.js": "/freelance-vacuum-cleaner/static/js/main.c0faf683.js",
     "static/js/787.0ec2cfbc.chunk.js": "/freelance-vacuum-cleaner/static/js/787.0ec2cfbc.chunk.js",
     "static/media/photo_3.jpg": "/freelance-vacuum-cleaner/static/media/photo_3.649553e3122f4ef4ed8a.jpg",
+    "static/media/photoshop_new.png": "/freelance-vacuum-cleaner/static/media/photoshop_new.7431c8629d535792f691.png",
     "static/media/Знімок_екрана_2023-09-13_223829-removebg-preview.png": "/freelance-vacuum-cleaner/static/media/Знімок_екрана_2023-09-13_223829-removebg-preview.9f7d18936043492607de.png",
     "static/media/photo_char.jpg": "/freelance-vacuum-cleaner/static/media/photo_char.dd1715449276321388da.jpg",
     "static/media/photo_1.jpg": "/freelance-vacuum-cleaner/static/media/photo_1.0410278fdd650c5396b5.jpg",
@@ -11,12 +12,12 @@
     "static/media/photo_4.jpg": "/freelance-vacuum-cleaner/static/media/photo_4.1e6fa7222c9a5c66ee21.jpg",
     "static/media/4573657511_w640_h640_moschnyj-akkumulyatornyj-avtomobilnyj.webp": "/freelance-vacuum-cleaner/static/media/4573657511_w640_h640_moschnyj-akkumulyatornyj-avtomobilnyj.8d1090a7312455df5b3e.webp",
     "index.html": "/freelance-vacuum-cleaner/index.html",
-    "main.ca3ba814.css.map": "/freelance-vacuum-cleaner/static/css/main.ca3ba814.css.map",
-    "main.56049d66.js.map": "/freelance-vacuum-cleaner/static/js/main.56049d66.js.map",
+    "main.1e37906c.css.map": "/freelance-vacuum-cleaner/static/css/main.1e37906c.css.map",
+    "main.c0faf683.js.map": "/freelance-vacuum-cleaner/static/js/main.c0faf683.js.map",
     "787.0ec2cfbc.chunk.js.map": "/freelance-vacuum-cleaner/static/js/787.0ec2cfbc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ca3ba814.css",
-    "static/js/main.56049d66.js"
+    "static/css/main.1e37906c.css",
+    "static/js/main.c0faf683.js"
   ]
 }
